@@ -1,0 +1,41 @@
+h1{
+	font-family: 'Concert One', cursive;/*titulo*/
+	margin-left: 20px;
+	font-size: 20px;
+	color:#848484;
+}
+hr{
+	margin-left: 20px;/*linea bajo titulo*/
+	padding-top:0.9px ;
+	background:#2E2E2E;
+	width: 100px;
+}
+img{
+
+	width: 340px;/*tamaño imagenes*/
+	height: 200px;
+
+	}
+
+div {
+	display: inline-block;/*pasar uno al lado de otro*/
+
+	}
+p{
+	font-size: xx-small;/*caracteristicas texto nombre apellido*/
+	font-family: 'Poppins', sans-serif;
+	position: relative;
+	bottom:30px;
+	color:#FFFFFF;
+	text-align: right;
+	margin-right: 10px;
+	}
+
+
+
+	
+.foto{
+	margin:20px 20px;}
+.foto2{
+	margin: 0px 20px;
+}
