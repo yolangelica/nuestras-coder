@@ -22,20 +22,27 @@ div {
 
 	}
 p{
-	font-size: xx-small;/*caracteristicas texto nombre apellido*/
 	font-family: 'Poppins', sans-serif;
-	position: relative;
-	bottom:30px;
-	color:#FFFFFF;
+	position: absolute;
+	padding-left: 190px;
+	bottom:0px;
+	color:#F7D358;
+	font-size: 15px;
 	text-align: right;
-	margin-right: 10px;
+	
 	}
 
 
 
 	
 .foto{
-	margin:20px 20px;}
+	margin:20px 20px;
+	position: relative;
+	display: inline-block;
+}
+
 .foto2{
 	margin: 0px 20px;
+	position: relative;
+	display: inline-block;
 }
